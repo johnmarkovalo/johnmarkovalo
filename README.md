@@ -1,7 +1,7 @@
 # 👋 Hey there
 
 <div align="justify">
-    My name is John Mark Ovalo and I'm a Full Stack Developer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+    My name is John Mark Ovalo and I'm a Full Stack Developer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies that I can leverage to solve real-life problems.
 </div>
 
 # 🔧 Technologies & Tools
@@ -64,7 +64,7 @@
     </td>  
     <td align="center" height="108" width="108">
       <img
-        src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/tailwind-css.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
         width="48"
         height="48"
         alt="Tailwind"
