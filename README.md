@@ -1,7 +1,7 @@
 # 👋 Hey there
 
 <div align="justify">
-    My name is John Mark Ovalo and I'm a Full Stack Developer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies that I can leverage to solve real-life problems.
+    I'm John Mark Ovalo, a Full Stack Developer passionate about JavaScript technologies. While my focus has been on Web Development, I've also expanded into mobile development with React Native, constantly exploring new technologies to build impactful solutions.
 </div>
 
 # 🔧 Technologies & Tools
